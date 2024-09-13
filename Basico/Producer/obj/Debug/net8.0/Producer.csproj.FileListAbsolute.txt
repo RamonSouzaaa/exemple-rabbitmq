@@ -15,3 +15,4 @@ C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Producer\obj\Debug\net8.0\refint\P
 C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Producer\obj\Debug\net8.0\Producer.pdb
 C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Producer\obj\Debug\net8.0\Producer.genruntimeconfig.cache
 C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Producer\obj\Debug\net8.0\ref\Producer.dll
+C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Producer\obj\Debug\net8.0\Producer.sourcelink.json

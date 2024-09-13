@@ -15,3 +15,4 @@ C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Consumer\obj\Debug\net8.0\refint\C
 C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Consumer\obj\Debug\net8.0\Consumer.pdb
 C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Consumer\obj\Debug\net8.0\Consumer.genruntimeconfig.cache
 C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Consumer\obj\Debug\net8.0\ref\Consumer.dll
+C:\projetos\csharp\RabbitMQ\MeuProjeto\Basico\Consumer\obj\Debug\net8.0\Consumer.sourcelink.json

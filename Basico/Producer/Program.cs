@@ -52,6 +52,9 @@ namespace MeuProjetoRabbitMQ.Basico
                     Console.WriteLine();
                 }
             }
+			
+			channel.Close();
+			connection.Close();
         }
     }
 }
